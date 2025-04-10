@@ -3,3 +3,4 @@ info.html
 *.exe
 *.log
 *.class
+/node_module
